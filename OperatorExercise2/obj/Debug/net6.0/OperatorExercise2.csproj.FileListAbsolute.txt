@@ -1,0 +1,15 @@
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net6.0\OperatorExercise2.exe
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net6.0\OperatorExercise2.deps.json
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net6.0\OperatorExercise2.runtimeconfig.json
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net6.0\OperatorExercise2.dll
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net6.0\OperatorExercise2.pdb
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\OperatorExercise2.csproj.AssemblyReference.cache
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\OperatorExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\OperatorExercise2.AssemblyInfoInputs.cache
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\OperatorExercise2.AssemblyInfo.cs
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\OperatorExercise2.csproj.CoreCompileInputs.cache
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\OperatorExercise2.dll
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\refint\OperatorExercise2.dll
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\OperatorExercise2.pdb
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\OperatorExercise2.genruntimeconfig.cache
+C:\Users\kfink\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net6.0\ref\OperatorExercise2.dll
